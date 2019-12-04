@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: srinivasvemula/simpleimage
+      - image: srinivasvemula/simapleimage
         name: javawebapp
         ports:
         - name: javawebapp
