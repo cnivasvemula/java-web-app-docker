@@ -18,5 +18,7 @@ spec:
       - name: javaapp
         image: srinivasvemula/simapleimage
         ports:
-        - containerPort: 8090
+        - containerPort: 80
+        
+ 
 
