@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: javaapp
-        image: srinivasvemula/simapleimage1
+        image: srinivasvemula/simapleimage1:latest
         ports:
         - containerPort: 80
         
